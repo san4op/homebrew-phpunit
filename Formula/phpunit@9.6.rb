@@ -3,8 +3,8 @@
 class PhpunitAT96 < Formula
   desc "Programmer-oriented testing framework for PHP"
   homepage "https://phpunit.de"
-  url "https://phar.phpunit.de/phpunit-9.6.9.phar"
-  sha256 "f00adcc5f62997376797ce8cca41fd37837d2fc17769c4933a0a18c8e000ee5d"
+  url "https://phar.phpunit.de/phpunit-9.6.15.phar"
+  sha256 "b0b94e1151b926b4d41552702b01a5478450b84ca5d875c84c42bbc40157d9e3"
   license "BSD-3-Clause"
 
   keg_only :versioned_formula
