@@ -5,9 +5,9 @@
 | PHPUnit         | Formula       |
 |-----------------|---------------|
 | PHPUnit 7.5.20  | `phpunit@7.5` |
-| PHPUnit 8.5.33  | `phpunit@8.5` |
+| PHPUnit 8.5.36  | `phpunit@8.5` |
 | PHPUnit 9.5.28  | `phpunit@9.5` |
-| PHPUnit 9.6.9   | `phpunit@9.6` |
+| PHPUnit 9.6.15  | `phpunit@9.6` |
 
 ## Install
 
